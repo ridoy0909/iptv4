@@ -1,5 +1,5 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV" tvg-logo="https://ibb.co/bzHk4sX" group-title="BANGLA",BTV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV" tvg-logo="" group-title="BANGLA",BTV
 http://tv.dflix.live:8082/53/mono.m3u8?token=73f1c763062bcd3215cc45e9ab6463d8bb398024-371d738d3a7ae5d92f9d6c177a82cfb4-1605873274-1605862474&remote=103.66.176.201
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHANNEL 24 HD" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="BANGLA",CHANNEL 24
 http://bdiptv.net:8080/Channel24/tracks-v1a1/mono.m3u8?token=2791b83d65766e5a48f1debb2962c375c3db3ce8-c73cb89754ff59a5ad4b52b334d08f85-1605872926-1605862126
