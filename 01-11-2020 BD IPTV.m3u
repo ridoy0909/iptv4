@@ -5,7 +5,7 @@ http://bdiptv.net:8080/Channel24/tracks-v1a1/mono.m3u8?token=2791b83d65766e5a48f
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Bangla" tvg-logo="https://i.imgur.com/7DKPT1P.jpg?1" group-title="BANGLA",Colors Bangla
 http://103.102.136.106:8080/cmcltv/tcm_colorsbanglacm.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DBC News HD" tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="BANGLA",DBC News HD
-http://bdiptv.net:8080/DBCNews/tracks-v1a1/mono.m3u8?token=9d751709cd7b2e2e587461391c746fdaab886f7b-4edbbb462eec9de69bb06f81dddaf6ff-1605861167-1605850367
+http://tv.dflix.live:8082/53/mono.m3u8?token=b26ee5282910838afb31040f482a665a517f69dd-922359fcb417e480f168bb7fd16b19ab-1605874662-1605863862&remote=103.66.176.201
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DURONTO TV" tvg-logo="https://i.imgur.com/EG2QRMG.png" group-title="BANGLA",DURONTO TV
 http://ctgiptv.kitv.live:1935/live/ddnfree/ddnfree/12.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekattor HD" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA",Ekattor HD
