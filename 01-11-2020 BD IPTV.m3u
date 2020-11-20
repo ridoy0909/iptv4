@@ -37,9 +37,9 @@ http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8?@IPTVSoltuion
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla HD" tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="BANGLA",Zee Bangla HD
 http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN Bangla" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="BANGLA",ATN Bangla
-http://bdiptv.net:8080/ATNNews/tracks-v1a1/mono.m3u8?token=af49397b17c9f11d5c4bdebff93870e393f3f015-056f061b196c7c2eb476eadc9474d47d-1605873550-1605862750
+http://bdiptv.net:8080/ATNBangla/tracks-v1a1/mono.m3u8?token=668489963df492118f1a238b67c2ea98258cdf96-47424e00d557111eb803fe35b3fee06f-1605894593-1605883793
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN News" tvg-logo="https://ibb.co/6nTFBrF" group-title="BANGLA",ATN News
-http://bdiptv.net:8080/ATNNews/tracks-v1a1/mono.m3u8?token=af49397b17c9f11d5c4bdebff93870e393f3f015-056f061b196c7c2eb476eadc9474d47d-1605873550-1605862750
+http://bdiptv.net:8080/ATNNews/tracks-v1a1/mono.m3u8?token=7377e462cb481ee692c05fa06c610b588961592e-91a9254df85e27b503552fc242f82369-1605894504-1605883704
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHANNEL I HD" tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="BANGLA",CHANNEL I HD
 http://bdiptv.net:8080/ChannelI/tracks-v1a1/mono.m3u8?token=8062452c5696b96586d77f22d769ba512e9f4104-3ce9ba63491112e1ba2364c4bac14443-1605861116-1605850316
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EKUSHEY TV HD" tvg-logo="https://i.imgur.com/T38Oiwl.jpg" group-title="BANGLA",EKUSHEY TV HD
