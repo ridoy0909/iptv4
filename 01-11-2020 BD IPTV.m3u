@@ -1,6 +1,5 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV" tvg-logo="" group-title="BANGLA",BTV
-http://tv.dflix.live:8082/53/mono.m3u8?token=73f1c763062bcd3215cc45e9ab6463d8bb398024-371d738d3a7ae5d92f9d6c177a82cfb4-1605873274-1605862474&remote=103.66.176.201
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHANNEL 24 HD" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="BANGLA",CHANNEL 24
 http://bdiptv.net:8080/Channel24/tracks-v1a1/mono.m3u8?token=2791b83d65766e5a48f1debb2962c375c3db3ce8-c73cb89754ff59a5ad4b52b334d08f85-1605872926-1605862126
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Bangla" tvg-logo="https://i.imgur.com/7DKPT1P.jpg?1" group-title="BANGLA",Colors Bangla
@@ -190,7 +189,7 @@ http://tv.dflix.live:8082/25/mono.m3u8?token=fa952086a6829bcfd0a04d96cd85739e371
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 2 HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sports",Star Sports 2 HD
 http://172.20.1.1:8081/live/starsports2/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports Select 1 HD" tvg-logo="https://s4.gifyu.com/images/imagef8fd29c06d7b96e6.png" group-title="Sports",Star Sports Select 1 HD
-http://otv.ftpbd.net/streams/113/index.m3u8
+http://tv.dflix.live:8082/53/mono.m3u8?token=73f1c763062bcd3215cc45e9ab6463d8bb398024-371d738d3a7ae5d92f9d6c177a82cfb4-1605873274-1605862474&remote=103.66.176.201
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 1" tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Sports",Sony Ten 1
 https://load.airtelxstream.in/sonyten1/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony ESPN" tvg-logo="https://ibb.co/NtvqQn8" group-title="Sports",Sony ESPN
