@@ -215,6 +215,8 @@ https://load.airtelxstream.in/sonyten3/smil:common.smil/chunklist.m3u8
 https://load.airtelxstream.in/sonyten3hd/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony SIX" tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1" group-title="Sports",Sony SIX
 http://103.102.136.106:8080/cmcltv/tcm_sonysix.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gazi TV" tvg-logo="https://ibb.co/PjLMNp9" group-title="Sports",Gazi Tv
+http://otv.ftpbd.net/streams/108/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony SIX HD" tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1" group-title="Sports",Sony SIX HD
 http://208.115.215.42/Sony_Six_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ten Sports" tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="Sports",Ten Sports
