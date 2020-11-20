@@ -1,24 +1,22 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHANNEL 24 HD" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="BANGLA",CHANNEL 24 HD
-http://172.20.1.1:8081/live/channel24/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHANNEL 24 HD" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="BANGLA",CHANNEL 24
+http://bdiptv.net:8080/Channel24/tracks-v1a1/mono.m3u8?token=a6ad46e6207546e8b5f3baf3cdb16323f31ed44d-28d49e5d6b2c29cc8e6980ffc5cb69ae-1605861025-1605850225
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Bangla" tvg-logo="https://i.imgur.com/7DKPT1P.jpg?1" group-title="BANGLA",Colors Bangla
 http://103.102.136.106:8080/cmcltv/tcm_colorsbanglacm.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DBC News HD" tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="BANGLA",DBC News HD
-http://172.20.1.1:8081/live/dbc/chunks.m3u8
+http://bdiptv.net:8080/DBCNews/tracks-v1a1/mono.m3u8?token=9d751709cd7b2e2e587461391c746fdaab886f7b-4edbbb462eec9de69bb06f81dddaf6ff-1605861167-1605850367
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DURONTO TV" tvg-logo="https://i.imgur.com/EG2QRMG.png" group-title="BANGLA",DURONTO TV
 http://ctgiptv.kitv.live:1935/live/ddnfree/ddnfree/12.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekattor HD" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA",Ekattor HD
 http://ctgiptv.kitv.live:1935/live/ddnfree/ddnfree/1.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Independent FHD" tvg-logo="https://s4.gifyu.com/images/imaged485611e23a7ca51.png" group-title="BANGLA",Independent FHD
-http://172.20.1.1:8081/live/independent/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Independent" tvg-logo="https://s4.gifyu.com/images/imaged485611e23a7ca51.png" group-title="BANGLA",Independent
+http://bdiptv.net:8080/IndependentTV/tracks-v1a1/mono.m3u8?token=30eeef6b8d433460240d551c737b3835b8ef4152-be847e9b65d096ba4f19e67899b249fd-1605861249-1605850449
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jalsha Movies" tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA",Jalsha Movies
 http://otv.ftpbd.net/streams/115/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAMUNA TV HD" tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="BANGLA",JAMUNA TV HD
 http://ctgiptv.kitv.live:1935/live/ddnfree/ddnfree/8.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Somoy TV FHD" tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="BANGLA",Somoy TV FHD
-http://172.20.1.1:8081/live/somoy/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Aath" tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="BANGLA",Sony Aath
-http://103.102.136.106:8080/cmcltv/tcm_sonyaat.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Somoy TV " tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="BANGLA",Somoy TV 
+http://bdiptv.net:8080/SomoyTv/tracks-v1a1/mono.m3u8?token=fa582872f8df1d18d843793b6c699bebaed7b597-61f8e5469c7d9e4a30b88b04eb575001-1605861473-1605850673
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Aath" tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="BANGLA",Sony Aath
 http://otv.ftpbd.net/streams/127/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="BANGLA",Star Jalsha
@@ -34,31 +32,27 @@ http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8?@IPTVSoltuion
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla HD" tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="BANGLA",Zee Bangla HD
 http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN Bangla" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="BANGLA",ATN Bangla
-http://172.20.1.1:8081/live/atnbangla/chunks.m3u8
+http://bdiptv.net:8080/ATNBangla/tracks-v1a1/mono.m3u8?token=ee4696bb0e404969cfdf9c4495895e39d7b90df1-d9e1f5f6cb7b286455b1ad87672aba8f-1605860853-1605850053
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHANNEL I HD" tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="BANGLA",CHANNEL I HD
-http://172.20.1.1:8081/live/channeli/chunks.m3u8
+http://bdiptv.net:8080/ChannelI/tracks-v1a1/mono.m3u8?token=8062452c5696b96586d77f22d769ba512e9f4104-3ce9ba63491112e1ba2364c4bac14443-1605861116-1605850316
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EKUSHEY TV HD" tvg-logo="https://i.imgur.com/T38Oiwl.jpg" group-title="BANGLA",EKUSHEY TV HD
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NTV" tvg-logo="https://i.imgur.com/3usnOla.png" group-title="BANGLA",NTV
-http://172.20.1.1:8081/live/ntv/chunks.m3u8
+http://bdiptv.net:8080/NTV/tracks-v1a1/mono.m3u8?token=e57dcca5689db964f74e21fa1c341d22b80aa6e8-59950314eae733a5bdae807a8783f5c9-1605861381-1605850581
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV HD" tvg-logo="https://i.imgur.com/UHd3eew.jpg" group-title="BANGLA",RTV HD
-http://172.20.1.1:8081/live/rtv/chunks.m3u8
+http://bdiptv.net:8080/RTV/tracks-v1a1/mono.m3u8?token=421497e17ca7fa9889ab5814a67067890edc8647-1856a257bcd4d0361989fff938da72f6-1605861433-1605850633
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BOISHAKHI TV HD" tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="BANGLA",BOISHAKHI TV HD
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BANGLA VISION HD" tvg-logo="https://i.imgur.com/00HdGFD.jpg" group-title="BANGLA",BANGLA VISION HD
-http://172.20.1.1:8081/live/banglavision/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MY TV HD" tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="BANGLA",MY TV HD
-http://172.20.1.1:8081/live/mytv/chunks.m3u8
+http://bdiptv.net:8080/BanglaVision/tracks-v1a1/mono.m3u8?token=108592e01376e5fe2b63bd6772ddf0e4b0889f28-4a7180b9e72935fc00b3151e082b2ed2-1605860602-1605849802
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maasranga HD" tvg-logo="https://s4.gifyu.com/images/image54942a3647a21709.png" group-title="BANGLA",Maasranga HD
 http://ctgiptv.kitv.live:1935/live/test/test1/1.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOHONA TV HD" tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="BANGLA",MOHONA TV HD
-http://172.20.1.1:8081/live/mohona/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SA TV HD" tvg-logo="https://i.imgur.com/PC5QaK3.jpg" group-title="BANGLA",SA TV HD
-http://172.20.1.1:8081/live/satv-22/chunks.m3u8
+http://bdiptv.net:8080/AsianTV/tracks-v1a1/mono.m3u8?token=b4560fa79c902ed4b564af2c5ae02bbc9db5d332-7800831199ec5421efca529d224677a6-1605860969-1605850169
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DEEPTO TV HD" tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="BANGLA",DEEPTO TV HD
 http://172.20.1.1:8081/live/deepto/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GAZI TV HD" tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="BANGLA",GAZI TV HD
-http://172.20.1.1:8081/live/gazi-bd/chunks.m3u8
+http://otv.ftpbd.net/streams/108/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nagorik TV FHD" tvg-logo="https://s4.gifyu.com/images/imaged089f3331cb4f590.png" group-title="BANGLA",Nagorik TV FHD
 http://172.20.1.1:8081/live/nagorik/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bangla TV" tvg-logo="https://s6.gifyu.com/images/image87250d092deb08a2.png" group-title="BANGLA",Bangla TV
@@ -151,6 +145,8 @@ https://hlstw.ihome.tokyo/live/cs25.stream/playlist.m3u8?wowzasessionid=14186771
 https://streamitv.multitvsolution.in/idvo/discoverybengali.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery HD ENGLISH" tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="ENGLISH",Discovery HD ENGLISH
 https://streamitv.multitvsolution.in/idvo/discoveryhd.m3u8?@IPTVSolution
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery HD Bangla" tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="ENGLISH",Discovery HD Bangla
+http://bdiptv.net:8080/Discovery/tracks-v1a1/mono.m3u8?token=ae87924e5e6f2b7775c7ef6c0998bb792134ed54-00d81db233cd866c71d550391190b04c-1605861952-1605851152
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://i.imgur.com/LD1Lj0v.png" group-title="ENGLISH",DW
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?@IPTVSolution
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png" group-title="ENGLISH",FOX HD
@@ -203,10 +199,8 @@ http://172.20.1.1:8081/live/select2/chunks.m3u8
 http://172.20.1.1:8081/live/ten1hd/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 1 HD" tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Sports",Sony Ten 1 HD
 https://load.airtelxstream.in/sonyten1hd/smil:common.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 2 HD" tvg-logo="https://i.imgur.com/NvVbPky.png" group-title="Sports",Sony Ten 2 HD
-http://172.20.1.1:8081/live/ten2hd/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 2 HD" tvg-logo="https://i.imgur.com/NvVbPky.png" group-title="Sports",Sony Ten 2 HD
-https://load.airtelxstream.in/sonyten2hd/smil:common.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 2 " tvg-logo="https://i.imgur.com/NvVbPky.png" group-title="Sports",Sony Ten 2
+http://otv.ftpbd.net/streams/112/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 3" tvg-logo="https://i.imgur.com/9mL944k.jpg" group-title="Sports",Sony Ten 3
 http://172.20.1.1:8081/live/ten3hd/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 3" tvg-logo="https://i.imgur.com/9mL944k.jpg" group-title="Sports",Sony Ten 3
@@ -215,8 +209,6 @@ https://load.airtelxstream.in/sonyten3/smil:common.smil/chunklist.m3u8
 https://load.airtelxstream.in/sonyten3hd/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony SIX" tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1" group-title="Sports",Sony SIX
 http://103.102.136.106:8080/cmcltv/tcm_sonysix.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gazi TV" tvg-logo="https://ibb.co/PjLMNp9" group-title="Sports",Gazi Tv
-http://otv.ftpbd.net/streams/108/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony SIX HD" tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1" group-title="Sports",Sony SIX HD
 http://208.115.215.42/Sony_Six_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ten Sports" tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="Sports",Ten Sports
