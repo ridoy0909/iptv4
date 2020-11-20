@@ -49,7 +49,7 @@ http://bdiptv.net:8080/NTV/tracks-v1a1/mono.m3u8?token=e57dcca5689db964f74e21fa1
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV HD" tvg-logo="https://i.imgur.com/UHd3eew.jpg" group-title="BANGLA",RTV HD
 http://bdiptv.net:8080/RTV/tracks-v1a1/mono.m3u8?token=421497e17ca7fa9889ab5814a67067890edc8647-1856a257bcd4d0361989fff938da72f6-1605861433-1605850633
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BOISHAKHI TV HD" tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="BANGLA",BOISHAKHI TV HD
-http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
+https://bdsl.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BANGLA VISION HD" tvg-logo="https://i.imgur.com/00HdGFD.jpg" group-title="BANGLA",BANGLA VISION HD
 http://bdiptv.net:8080/BanglaVision/tracks-v1a1/mono.m3u8?token=108592e01376e5fe2b63bd6772ddf0e4b0889f28-4a7180b9e72935fc00b3151e082b2ed2-1605860602-1605849802
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gaan Bangla" tvg-logo="https://ibb.co/bRd2NNy" group-title="BANGLA",Gaan Bangla
