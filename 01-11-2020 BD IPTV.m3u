@@ -67,6 +67,8 @@ http://10.16.100.207:8082/sports/ten1_720.m3u8
 https://edge01.iptv.digijadoo.net/live/ss_s2/chunks.m3u8?expires=1612057348&md5=5uZCGKdj4yOGSxPQeJA0Xg&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="star sports 2" tvg-logo="https://ibb.co/NskWfpM" group-title="Sports",STAR SPORTS 2
 http://10.16.100.207:8082/sports/starsports2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Six" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Sony Six
+http://10.16.100.201/hindi/cm_sonysix_hd.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="star sports select 1" tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA",STAR SPORTS SELECT 1
 http://10.16.100.201/hindi/sportsT.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cheebies" tvg-logo="https://i.imgur.com/PC5QaK3.jpg" group-title="BANGLA",SA TV HD
