@@ -63,11 +63,11 @@ https://edge01.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8?expires=16120584
 http://10.16.100.207:8082/sports/sportst.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ten 1" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Sports",Ten 1
 http://10.16.100.207:8082/sports/ten1_720.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="star sports selsct 2" tvg-logo="https://s4.gifyu.com/images/imaged485611e23a7ca51.png" group-title="Sports",Independent
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="star sports select 2" tvg-logo="https://s4.gifyu.com/images/imaged485611e23a7ca51.png" group-title="Sports",Star sports selct 2
 https://edge01.iptv.digijadoo.net/live/ss_s2/chunks.m3u8?expires=1612057348&md5=5uZCGKdj4yOGSxPQeJA0Xg&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="star sports 2" tvg-logo="https://ibb.co/NskWfpM" group-title="Sports",Deepto TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="star sports 2" tvg-logo="https://ibb.co/NskWfpM" group-title="Sports",Star Sports 2
 http://10.16.100.207:8082/sports/starsports2.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="star sports select 1" tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA",Jalsha Movies
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="star sports select 1" tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA",Star sports selct 1
 http://10.16.100.201/hindi/sportsT.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cheebies" tvg-logo="https://i.imgur.com/PC5QaK3.jpg" group-title="BANGLA",SA TV HD
 https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8?expires=1612058810&md5=LdaEhP7n04sMyjADAnCLJQ&user=ef3b0701f26743a4a12ce79435bc6d0d
