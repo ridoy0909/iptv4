@@ -1,28 +1,98 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bangla vision" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="BANGLA",CHANNEL 24
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="BANGLA",BTV
+https://edge01.iptv.digijadoo.net/live/btv_world/chunks.m3u8?expires=1612063959&md5=5oN0GupuECow-ooIILhK9g&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BanglaTv" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="BANGLA",Bangla TV
+https://edge01.iptv.digijadoo.net/live/bangla_tv/chunks.m3u8?expires=1612064014&md5=cITbITxZyHzSOKoPIdJGrg&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bangla Talkies" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="BANGLA",Bangla Talkies
+https://edge01.iptv.digijadoo.net/live/bangla_talkies/chunks.m3u8?expires=1612064084&md5=r07CJkSPSqo5ZKSmIGKcDg&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bijoy tv" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="BANGLA",bijoy tv
+https://edge01.iptv.digijadoo.net/live/bijoy_tv/chunks.m3u8?expires=1612064144&md5=foOoKIDd7pyN-zbBRGjwVg&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Akash" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="BANGLA",Akash
+https://edge01.iptv.digijadoo.net/live/aakash_aath/chunks.m3u8?expires=1612064255&md5=09_Ml_-uUL6T2Ajq6v9toQ&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="channel 24" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="BANGLA",CHANNEL 24
+https://edge01.iptv.digijadoo.net/live/channel_24/chunks.m3u8?expires=1612064315&md5=dcczsBWVs2x0z3kpr5ud3A&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel 9" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="BANGLA",Channel 9
+https://edge01.iptv.digijadoo.net/live/channel_9/chunks.m3u8?expires=1612064396&md5=yKcfbAoVtJRXT6ifCAsk3w&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ananda" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="BANGLA",Ananda
+https://edge01.iptv.digijadoo.net/live/ananda_tv/chunks.m3u8?expires=1612064454&md5=MB4afwcrQkSH7gIEOujIAg&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekattor" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="BANGLA",Ekattor
+https://edge01.iptv.digijadoo.net/live/dw/chunks.m3u8?expires=1612064556&md5=DYiTjMzO3EAdFTtH241Sug&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="BANGLA",ETV
+https://edge01.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8?expires=1612064649&md5=dXz7Z1gQWxvcIeFc6gg7SA&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Independent" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="BANGLA",Independent
+https://edge01.iptv.digijadoo.net/live/independent_tv/chunks.m3u8?expires=1612064707&md5=125zpX_HepTgRKCtQRh9Cw&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna Tv" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="BANGLA",Jamuna TV
+https://edge01.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8?expires=1612064754&md5=MmW_ZGiJYekoK_P65KWQjQ&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NTV" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="BANGLA",NTV
+https://edge01.iptv.digijadoo.net/live/ntv/chunks.m3u8?expires=1612064820&md5=WpgunMEgAkKzBcVDKL0BoQ&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="BANGLA",RTV
+https://edge01.iptv.digijadoo.net/live/rtv/chunks.m3u8?expires=1612064878&md5=XfKKlqMh5ghp_PcJKk44yQ&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DEEPTO TV HD" tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="BANGLA",DEEPTO TV HD
+https://edge01.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8?expires=1612058839&md5=Hb5LnXaoaxiqLEu5hf1now&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GAZI TV HD" tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="BANGLA",GAZI TV HD
+https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1612058871&md5=2WWiqjL8q-BdMk4i2rZOtw&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nagorik TV FHD" tvg-logo="https://s4.gifyu.com/images/imaged089f3331cb4f590.png" group-title="BANGLA",Nagorik TV FHD
+https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8?expires=1612058939&md5=k_-L4PAwbVQuIWu2qY3R0A&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SATV" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="BANGLA",SATV
+https://edge01.iptv.digijadoo.net/live/sa_tv/chunks.m3u8?expires=1612064931&md5=1FPgCmIpX0ms-3NzwTcUUQ&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shomoy" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="BANGLA",Shomoy
+https://edge01.iptv.digijadoo.net/live/somoy_news/chunks.m3u8?expires=1612064979&md5=uBOPL-dkE0zhpJjq4NJ0HA&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="shongshod tv" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="BANGLA",shongshod tv
+https://edge01.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8?expires=1612065057&md5=mcV43hBnZcHicffV6ACgHA&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SB" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="BANGLA",SB
+https://edge01.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8?expires=1612065139&md5=kqTFIrQDUQ8pg2AC4n1c9g&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bangla vision" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="BANGLA",Bangla vision
 http://10.16.100.203:8082/bangla/vision_bangla.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Massranga" tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="BANGLA",Massranga
+https://edge01.iptv.digijadoo.net/live/maasranga/chunks.m3u8?expires=1612059297&md5=m6XpzLABf_Sqe4-MuZQzMg&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24 news" tvg-logo="https://i.imgur.com/7DKPT1P.jpg?1" group-title="BANGLA",Colors Bangla
 http://10.16.100.203:8082/bangla/24newshd_720.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NICK" tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="BANGLA",Nick
-https://edge01.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8?expires=1612056929&md5=plfWUAcK7Q-rG5sXG4nFrA&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asian TV" tvg-logo="https://ibb.co/Pz2svB3" group-title="BANGLA",Asian TV
+http://10.16.100.203:8082/bangla/tv_asian.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DBC" tvg-logo="https://ibb.co/Pz2svB3" group-title="BANGLA",DBC
+https://edge01.iptv.digijadoo.net/live/dbc_news/chunks.m3u8?expires=1612066515&md5=GYG7zMQf6C4W0fdvpZTshg&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN Bangla" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="BANGLA",ATN Bangla
+https://edge01.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8?expires=1612058090&md5=6UxMu-7n4rwj_v7OWyI-dA&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN News" tvg-logo="https://ibb.co/6nTFBrF" group-title="BANGLA",ATN News
+https://edge01.iptv.digijadoo.net/live/atn_news/chunks.m3u8?expires=1612058128&md5=lNnNBIk9tvYMhlLAMbF6ug&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHANNEL I HD" tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="BANGLA",CHANNEL I HD
+https://edge01.iptv.digijadoo.net/live/channel_i/chunks.m3u8?expires=1612058159&md5=OOoLOejl5HzNwBqKezRBBQ&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BOISHAKHI TV HD" tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="BANGLA",BOISHAKHI TV HD
+https://edge01.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8?expires=1612058437&md5=GR1OiSfe8CE6taS1LjO9jQ&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="tsports" tvg-logo="https://i.imgur.com/EG2QRMG.png" group-title="Sports",TSports
 http://10.16.100.207:8082/sports/sportst.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ten 1" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Sports",Ten 1
 http://10.16.100.207:8082/sports/ten1_720.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="star sports selsct 2" tvg-logo="https://s4.gifyu.com/images/imaged485611e23a7ca51.png" group-title="Sports",Independent
 https://edge01.iptv.digijadoo.net/live/ss_s2/chunks.m3u8?expires=1612057348&md5=5uZCGKdj4yOGSxPQeJA0Xg&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asian TV" tvg-logo="https://ibb.co/Pz2svB3" group-title="BANGLA",Asian TV
-http://10.16.100.203:8082/bangla/tv_asian.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="star sports 2" tvg-logo="https://ibb.co/NskWfpM" group-title="Sports",Deepto TV
 http://10.16.100.207:8082/sports/starsports2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="star sports select 1" tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA",Jalsha Movies
 http://10.16.100.201/hindi/sportsT.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cheebies" tvg-logo="https://i.imgur.com/PC5QaK3.jpg" group-title="BANGLA",SA TV HD
+https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8?expires=1612058810&md5=LdaEhP7n04sMyjADAnCLJQ&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NickHD" tvg-logo="https://i.imgur.com/CPdrEIm.png" group-title="HINDI",NickHD
+https://edge01.iptv.digijadoo.net/live/nick_hd/chunks.m3u8?expires=1612059165&md5=AB7RMSjU8IorOpU3kMR3iQ&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick junior" tvg-logo="https://i.imgur.com/W4KuSN3.png" group-title="HINDI",Nick junior
+https://edge01.iptv.digijadoo.net/live/nick_jr/chunks.m3u8?expires=1612059193&md5=46TdnYpn5cewwY9BpC7XfA&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NICK" tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="BANGLA",Nick
+https://edge01.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8?expires=1612056929&md5=plfWUAcK7Q-rG5sXG4nFrA&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="nick sonic" tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="BANGLA",JAMUNA TV HD
 https://edge01.iptv.digijadoo.net/live/sonic/chunks.m3u8?expires=1612057707&md5=gPd3uNOydyP8L8WUnD9i6A&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery HD " tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="BANGLA",Somoy TV 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery kids" tvg-logo="https://i.imgur.com/T38Oiwl.jpg" group-title="BANGLA",EKUSHEY TV HD
+https://edge01.iptv.digijadoo.net/live/discovery_kids/chunks.m3u8?expires=1612058222&md5=LpXh1RpuysJDwI6Yb-JstA&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery HD " tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="BANGLA",Discovery HD
 https://edge01.iptv.digijadoo.net/live/discovery_hd/chunks.m3u8?expires=1612057803&md5=NHzPHTH5uv5CNR5ESGkvVA&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="History 18" tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="BANGLA",Sony Aath
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="History 18" tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="BANGLA",History 18
 https://edge01.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8?expires=1612057868&md5=xhjnfdM88SavtEm2_FxNKQ&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW " tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="BANGLA",DW
+https://edge01.iptv.digijadoo.net/live/dw/chunks.m3u8?expires=1612065309&md5=SJrbjqFy7Kw1VIPBUT7NsQ&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NATG" tvg-logo="https://s4.gifyu.com/images/image54942a3647a21709.png" group-title="BANGLA",NATG
+https://edge01.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8?expires=1612065723&md5=PweEPPqzVLgW8vbSPK3bbQ&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery science" tvg-logo="https://s4.gifyu.com/images/image54942a3647a21709.png" group-title="BANGLA",Maasranga HD
+https://edge01.iptv.digijadoo.net/live/discovery_science/chunks.m3u8?expires=1612058625&md5=6HN_zsJ_rJ_1bJspzz28Jg&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovey turbo" tvg-logo="https://ibb.co/3YZX3Fc" group-title="BANGLA",Desh TV
+https://edge01.iptv.digijadoo.net/live/dsc_turbo/chunks.m3u8?expires=1612058677&md5=m4EHLo6OhCvYN6B_GjRduA&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="BANGLA",Star Jalsha
 https://edge01.iptv.digijadoo.net/live/star_jalsha_india/chunks.m3u8?expires=1612057973&md5=XNmegeqk6NERihp6gVepEw&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BANGLA",Star Jalsha HD
@@ -31,39 +101,25 @@ https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8?expires=161205
 https://edge01.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8?expires=1612058022&md5=qtc6fwAYLZonDSw6-bezfQ&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla Cinema" tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="BANGLA",Zee Bangla Cinema
 https://edge01.iptv.digijadoo.net/live/zee_bangla_cinema/chunks.m3u8?expires=1612058058&md5=typllNXE3Ryn7akzYbZ29A&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN Bangla" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="BANGLA",ATN Bangla
-https://edge01.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8?expires=1612058090&md5=6UxMu-7n4rwj_v7OWyI-dA&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN News" tvg-logo="https://ibb.co/6nTFBrF" group-title="BANGLA",ATN News
-https://edge01.iptv.digijadoo.net/live/atn_news/chunks.m3u8?expires=1612058128&md5=lNnNBIk9tvYMhlLAMbF6ug&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHANNEL I HD" tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="BANGLA",CHANNEL I HD
-https://edge01.iptv.digijadoo.net/live/channel_i/chunks.m3u8?expires=1612058159&md5=OOoLOejl5HzNwBqKezRBBQ&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery kids" tvg-logo="https://i.imgur.com/T38Oiwl.jpg" group-title="BANGLA",EKUSHEY TV HD
-https://edge01.iptv.digijadoo.net/live/discovery_kids/chunks.m3u8?expires=1612058222&md5=LpXh1RpuysJDwI6Yb-JstA&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star bharat" tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="HINDI",Star Bharat
+https://edge01.iptv.digijadoo.net/live/star_bharat/chunks.m3u8?expires=1612065457&md5=xp6vJdNzYO0hiY2f4FBMGA&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zeecinema" tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="HINDI",Zeecinema
+https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8?expires=1612065525&md5=t3x6GdIoIPMu1p3O8SfNHw&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="airing" tvg-logo="https://i.imgur.com/3usnOla.png" group-title="BANGLA",NTV
 https://edge01.iptv.digijadoo.net/live/arirang/chunks.m3u8?expires=1612058319&md5=pUOlkI99-0x0GTABWSVXHg&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC lifestyle" tvg-logo="https://i.imgur.com/UHd3eew.jpg" group-title="BANGLA",RTV HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee24" tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="BANGLA",Zee24
+https://edge01.iptv.digijadoo.net/live/zee_24_ghanta/chunks.m3u8?expires=1612065625&md5=4imD57ANMFmHmVXPX8Paqw&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC lifestyle" tvg-logo="https://i.imgur.com/UHd3eew.jpg" group-title="BANGLA",BBC
 https://edge01.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8?expires=1612058395&md5=-FV6vMvaCHSz4PYQYUyoIw&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BOISHAKHI TV HD" tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="BANGLA",BOISHAKHI TV HD
-https://edge01.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8?expires=1612058437&md5=GR1OiSfe8CE6taS1LjO9jQ&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Comedy Central" tvg-logo="https://i.imgur.com/00HdGFD.jpg" group-title="BANGLA",BANGLA VISION HD
 https://edge01.iptv.digijadoo.net/live/comedy_central/chunks.m3u8?expires=1612058481&md5=NVYLPloIl7auqVIjdQiJXg&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC" tvg-logo="https://ibb.co/bRd2NNy" group-title="BANGLA",Gaan Bangla
 https://edge01.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8?expires=1612058575&md5=pOo2SSCk_dTJzi4J8siWoA&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery science" tvg-logo="https://s4.gifyu.com/images/image54942a3647a21709.png" group-title="BANGLA",Maasranga HD
-https://edge01.iptv.digijadoo.net/live/discovery_science/chunks.m3u8?expires=1612058625&md5=6HN_zsJ_rJ_1bJspzz28Jg&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovey turbo" tvg-logo="https://ibb.co/3YZX3Fc" group-title="BANGLA",Desh TV
-https://edge01.iptv.digijadoo.net/live/dsc_turbo/chunks.m3u8?expires=1612058677&md5=m4EHLo6OhCvYN6B_GjRduA&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SA TV HD" tvg-logo="https://i.imgur.com/PC5QaK3.jpg" group-title="BANGLA",SA TV HD
-https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8?expires=1612058810&md5=LdaEhP7n04sMyjADAnCLJQ&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DEEPTO TV HD" tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="BANGLA",DEEPTO TV HD
-https://edge01.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8?expires=1612058839&md5=Hb5LnXaoaxiqLEu5hf1now&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GAZI TV HD" tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="BANGLA",GAZI TV HD
-https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1612058871&md5=2WWiqjL8q-BdMk4i2rZOtw&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nagorik TV FHD" tvg-logo="https://s4.gifyu.com/images/imaged089f3331cb4f590.png" group-title="BANGLA",Nagorik TV FHD
-https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8?expires=1612058939&md5=k_-L4PAwbVQuIWu2qY3R0A&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="&flix" tvg-logo="https://akamaividz.zee5.com/resources/0-9-pictures/list/386x386/09picturespictures.png" group-title="HINDI",&flix
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VH1" tvg-logo="https://akamaividz.zee5.com/resources/0-9-pictures/list/386x386/09picturespictures.png" group-title="HINDI",VH1
+https://edge01.iptv.digijadoo.net/live/vh1/chunks.m3u8?expires=1612066072&md5=1yaHosraQ_K6U6DveZtf4w&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movies Now" tvg-logo="https://akamaividz.zee5.com/resources/0-9-pictures/list/386x386/09picturespictures.png" group-title="HINDI",Movies Now
 https://edge01.iptv.digijadoo.net/live/movies_now/chunks.m3u8?expires=1612059015&md5=3ycKO5NEdPw4UamVWWJEXg&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="& Picture HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="HINDI",& Picture HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gaan Bangla" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="HINDI",Gaan Bangla
 https://edge01.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8?expires=1612059047&md5=g5aYU4pkNM1oNEpT_ArjQw&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="9x Jalwa" tvg-logo="https://i.imgur.com/E4NcxwB.jpg" group-title="HINDI",9x Jalwa
 https://edge01.iptv.digijadoo.net/live/9x_jalwa/chunks.m3u8?expires=1612059071&md5=-gInhU_LhDlkXBqaklWFuQ&user=ef3b0701f26743a4a12ce79435bc6d0d
@@ -71,14 +127,8 @@ https://edge01.iptv.digijadoo.net/live/9x_jalwa/chunks.m3u8?expires=1612059071&m
 https://edge01.iptv.digijadoo.net/live/9x_jhakaas/chunks.m3u8?expires=1612059091&md5=0Xtem3Ptq2twXlfIUP7FhA&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="9XM" tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="HINDI",9XM
 https://edge01.iptv.digijadoo.net/live/9xm/chunks.m3u8?expires=1612059113&md5=3BQm8o4GvqA5GilCTzqVBQ&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/CPdrEIm.png" group-title="HINDI",Cartoon Network
-https://edge01.iptv.digijadoo.net/live/nick_hd/chunks.m3u8?expires=1612059165&md5=AB7RMSjU8IorOpU3kMR3iQ&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cheebies Asia" tvg-logo="https://i.imgur.com/W4KuSN3.png" group-title="HINDI",Cheebies Asia
-https://edge01.iptv.digijadoo.net/live/nick_jr/chunks.m3u8?expires=1612059193&md5=46TdnYpn5cewwY9BpC7XfA&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV" tvg-logo="https://i.imgur.com/GPPBEiZ.png" group-title="HINDI",MTV
 https://edge01.iptv.digijadoo.net/live/lolly_kids/chunks.m3u8?expires=1612059243&md5=X-RIZW9EcLV-8P7ewz8jJQ&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Massranga" tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="HINDI",Sony Max
-https://edge01.iptv.digijadoo.net/live/maasranga/chunks.m3u8?expires=1612059297&md5=m6XpzLABf_Sqe4-MuZQzMg&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="colors" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/43/Sony_Max_HD.svg/revision/latest/scale-to-width-down/340?cb=20191222183157" group-title="HINDI",Sony Max HD
 https://edge01.iptv.digijadoo.net/live/colors_hd/chunks.m3u8?expires=1612059369&md5=BQsAvC0iREGQ5-Myicqx1g&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="colors bangla" tvg-logo="https://i.imgur.com/0piOCHd.png?1" group-title="HINDI",Sony MAX2
@@ -93,6 +143,8 @@ https://edge01.iptv.digijadoo.net/live/star_gold_2/chunks.m3u8?expires=161205955
 https://edge01.iptv.digijadoo.net/live/qatar_tv/chunks.m3u8?expires=1612059593&md5=VO4F2cLdfyWgvqhHU-Qj3g&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="hazz" tvg-logo="" group-title="HINDI",ZEE BIOSKOP
 https://edge01.iptv.digijadoo.net/live/quran_tv/chunks.m3u8?expires=1612059640&md5=sB8VE5qitfBOYzPN5AT4Pg&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="colors infinity" tvg-logo="" group-title="HINDI",colors infinity
+https://edge01.iptv.digijadoo.net/live/colors_infinity/chunks.m3u8?expires=1612066356&md5=jnxjgaPDwzJK3lNySM96fQ&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="colors ristey" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeclassic/list/386x386/09zeeclassiczeebollywood.png" group-title="HINDI",Zee Bollywood
 https://edge01.iptv.digijadoo.net/live/rishtey/chunks.m3u8?expires=1612059689&md5=kDCJHCMZp9M3xHfUJ9acpQ&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Tv" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinema/list/386x386/09zeecinemazeecinema.png" group-title="HINDI",Zee Cinema UK
