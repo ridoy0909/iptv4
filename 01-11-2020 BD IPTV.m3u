@@ -69,16 +69,14 @@ http:\\mytv.fun:8080\92gtbug668\57vm1yggp5\5431
 http:\\mytv.fun:8080\92gtbug668\57vm1yggp5\5429
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ten sports 3" tvg-logo="https://ibb.co/NskWfpM" group-title="Sports",TEN SPORTS
 http:\\mytv.fun:8080\92gtbug668\57vm1yggp5\5433
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein sports 1" tvg-logo="https://ibb.co/NskWfpM" group-title="Sports",BEIN 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein sports 1" tvg-logo="https://ibb.co/NskWfpM" group-title="Sports",BEIN SPORTS 1
 http:\\mytv.fun:8080\92gtbug668\57vm1yggp5\5482
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ten sports 3" tvg-logo="https://ibb.co/NskWfpM" group-title="Sports",TEN SPORTS
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ten sports 3" tvg-logo="https://ibb.co/NskWfpM" group-title="Sports",TEN SPORTS
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ten sports 3" tvg-logo="https://ibb.co/NskWfpM" group-title="Sports",TEN SPORTS
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ten sports 3" tvg-logo="https://ibb.co/NskWfpM" group-title="Sports",TEN SPORTS
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ten sports 3" tvg-logo="https://ibb.co/NskWfpM" group-title="Sports",TEN SPORTS
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ten sports 3" tvg-logo="https://ibb.co/NskWfpM" group-title="Sports",TEN SPORTS
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ten sports 3" tvg-logo="https://ibb.co/NskWfpM" group-title="Sports",BEIN SPORTS 2
+http:\\mytv.fun:8080\92gtbug668\57vm1yggp5\5481
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS 3" tvg-logo="https://ibb.co/NskWfpM" group-title="Sports",BEIN SPORTS 3
+http:\\mytv.fun:8080\92gtbug668\57vm1yggp5\5480
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS 4" tvg-logo="https://ibb.co/NskWfpM" group-title="Sports",BEIN SPORTS 4
+http://mytv.fun:8080/92gtbug668/57vm1yggp5/5479
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AD Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSjiki2SblaE5chW0QPeV1wAWHfdQ8i6SfJ0HK8KtX5L_UvLI5_&usqp=CAU" group-title="Sports",AD Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AD Sports 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuU6Nxq7TV2GL_StL--Uo137rSOCG3T2mp5KrW6o3KrcVInHtV&usqp=CAU" group-title="Sports",AD Sports 2
