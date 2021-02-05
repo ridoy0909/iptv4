@@ -51,6 +51,8 @@ http://10.16.100.201/hindi/sportsT.m3u8
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky News HD" tvg-logo="http://static.epg.best/uk/SkyNews.uk.png" group-title="News",Sky News HD
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO" tvg-logo="" group-title="INDIA (New)",HBO
+http://cdn.bdiptv.pw:8080/wWZ2ULKrZgMVaBdz8mrnUNWV9fcSA66v4a8uhR/hbo/chunks.m3u8?nimblesessionid=804181
 #EXTINF:-1 tvg-id="ext" tvg-name="UTV Edge" tvg-logo="" group-title="INDIA (New)",UTV Edge
 http://81.196.0.126/utvedge/utvlivehls/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="tsports" tvg-logo="https://i.imgur.com/EG2QRMG.png" group-title="Sports",TSports
@@ -119,9 +121,10 @@ http://mytv.fun:8080/92gtbug668/57vm1yggp5/11440
 http://mytv.fun:8080/92gtbug668/57vm1yggp5/5136
 #EXTINF:-1,Animal Planet HD US
 http://mytv.fun:8080/92gtbug668/57vm1yggp5/14393
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony AATH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="BANGLA",Sony AATH
 http://10.16.100.203:8082/bangla/sonyaath_1stop_in.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony TV" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSony_Entertainment_Television&psig=AOvVaw3H8Ni5PqNnquB6_LHNlSgC&ust=1612606827005000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICJl9rC0u4CFQAAAAAdAAAAABAD" group-title="BANGLA",Sony TV
+http://tv.bdtv.xyz:8080/wWZ2ULKrZgMVaBdz8mrnUNWV9fcSA66v4a8uhR/SonyTV/chunks.m3u8?nimblesessionid=321971
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BANGLA",Star Jalsha HD
 http://10.16.100.200:8082/hls/starjalsha_bd_hd_720p.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla HD" tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="Shows & Series",Zee Bangla HD
@@ -136,8 +139,10 @@ https://edge01.iptv.digijadoo.net/live/vh1/chunks.m3u8?expires=1612066072&md5=1y
 https://edge01.iptv.digijadoo.net/live/movies_now/chunks.m3u8?expires=1612059015&md5=3ycKO5NEdPw4UamVWWJEXg&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gaan Bangla" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="HINDI",Gaan Bangla
 http://10.16.100.204:8082/hls/&Pictures_hd_bd.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="colors" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/43/Sony_Max_HD.svg/revision/latest/scale-to-width-down/340?cb=20191222183157" group-title="HINDI",Sony Max HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="set max" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/43/Sony_Max_HD.svg/revision/latest/scale-to-width-down/340?cb=20191222183157" group-title="HINDI",Sony Max HD
 https://live.bongobd.com/hls/SYkrj59wp--paLrSMUB_Bw/1612512618/set_max_hi/index.m3u8
+#EXTINF:-1 tvg-id="ZeeAction.in" tvg-name="Colors" tvg-logo="" group-title="INDIA (New)",Colors
+http://tv.bdtv.xyz:8080/wWZ2ULKrZgMVaBdz8mrnUNWV9fcSA66v4a8uhR/colors/chunks.m3u8?nimblesessionid=321940
 #EXTINF:-1 tvg-id="ZeeAction.in" tvg-name="Zee Action (1)" tvg-logo="" group-title="INDIA (New)",Zee Action (1)
 https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Zee Anmol (1)" tvg-logo="" group-title="INDIA (New)",Zee Anmol (1)
@@ -150,6 +155,8 @@ https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/cinemauk/index.m3u8
 #EXTINF:-1 tvg-id="ZeeCinema.uk" tvg-name="Zee Cinema (3)" tvg-logo="" group-title="INDIA (New)",Zee Cinema (3)
 https://y5w8j4a9.ssl.hwcdn.net/cinemausa/index.m3u8
+#EXTINF:-1 tvg-id="ZeeCinema.uk" tvg-name="Zee Cinema" tvg-logo="" group-title="INDIA (New)",Zee Cinema (BDIP)
+http://tv.bdtv.xyz:8080/wWZ2ULKrZgMVaBdz8mrnUNWV9fcSA66v4a8uhR/ZeeCinema/chunks.m3u8?nimblesessionid=321972
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="9X Jalwa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRQ-4nJohL8IrVe8hD0RG8TuxNE8Dd28I-mzw5z7F0bSDwL7ZR6&usqp=CAU" group-title="INDIA (New)",9X Jalwa
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="9XM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2MTTFmEKapIMaRlFFc72hg7rWdp-PuG4XFcNBymgrORZfiUTx&usqp=CAU" group-title="INDIA (New)",9XM
