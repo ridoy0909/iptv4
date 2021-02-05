@@ -235,3 +235,35 @@ https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/in
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC Max HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSdOU1MURm3ElUStHv-_h_pA0OC60RWTlH2Rw&usqp=CAU" group-title="BrightWall Technology (Channel)",MBC Max HD
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8
+#EXTINF:-1,beIN Sports News FHD AR
+http://mytv.fun:8080/92gtbug668/57vm1yggp5/676904
+#EXTINF:-1,beIN Sports 1 FHD AR
+http://mytv.fun:8080/92gtbug668/57vm1yggp5/682932
+#EXTINF:-1,beIN Sports 1 HD AR
+http://mytv.fun:8080/92gtbug668/57vm1yggp5/5482
+#EXTINF:-1,beIN Sports 1 HD VIP AR
+http://mytv.fun:8080/92gtbug668/57vm1yggp5/678748
+#EXTINF:-1,beIN Sports 2 FHD AR
+http://mytv.fun:8080/92gtbug668/57vm1yggp5/682933
+#EXTINF:-1,beIN Sports 2 HD AR
+http://mytv.fun:8080/92gtbug668/57vm1yggp5/5481
+#EXTINF:-1,beIN Sports 3 FHD AR
+http://mytv.fun:8080/92gtbug668/57vm1yggp5/682934
+#EXTINF:-1,beIN Sports 3 HD AR
+http://mytv.fun:8080/92gtbug668/57vm1yggp5/5480
+#EXTINF:-1,beIN Sports 4 HD AR
+http://mytv.fun:8080/92gtbug668/57vm1yggp5/5479
+#EXTINF:-1,beIN Sports 5 FHD AR
+http://mytv.fun:8080/92gtbug668/57vm1yggp5/682935
+#EXTINF:-1,beIN Sports 5 HD AR
+http://mytv.fun:8080/92gtbug668/57vm1yggp5/5478
+#EXTINF:-1,beIN Sports 6 FHD AR
+http://mytv.fun:8080/92gtbug668/57vm1yggp5/54777
+#EXTINF:-1,beIN Sports 7 FHD AR
+http://mytv.fun:8080/92gtbug668/57vm1yggp5/683135
+#EXTINF:-1,beIN Sports 7 HD AR
+http://mytv.fun:8080/92gtbug668/57vm1yggp5/5476
+#EXTINF:-1,beIN Sports 8 HD AR
+http://mytv.fun:8080/92gtbug668/57vm1yggp5/53432
+#EXTINF:-1,beIN Sports 9 FHD VIP AR
+http://mytv.fun:8080/92gtbug668/57vm1yggp5/682936
