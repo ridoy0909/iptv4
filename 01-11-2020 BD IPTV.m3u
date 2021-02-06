@@ -165,7 +165,5 @@ http://10.16.100.207:8082/sports/starsports_select1.m3u8
 http://10.16.100.207:8082/sports/ten1_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",Sony Six
 http://10.16.100.201/hindi/cm_sonysix_hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",Sony Espn
-http://103.49.168.170:8082/23/index.m3u8?token=f27747917558a9931fc8f0baf19edcbc043e1a4b-2ccace43d11c78460e8114bfd49bf86c-1612620889-1612610089&remote=202.4.101.145
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",T sports 2
 http://10.16.100.201/hindi/sportsT.m3u8
