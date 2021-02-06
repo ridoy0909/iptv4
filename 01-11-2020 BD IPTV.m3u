@@ -43,8 +43,6 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="RTV HD (1)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",RTV HD (1)
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T Sports" tvg-logo="" group-title="Sports",T Sports
-http://10.16.100.201/hindi/sportsT.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Jazeera SD" tvg-logo="https://i.imgur.com/fRivJD3.jpg" group-title="News",Al Jazeera SD
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky News HD" tvg-logo="http://static.epg.best/uk/SkyNews.uk.png" group-title="News",Sky News HD
@@ -101,8 +99,6 @@ https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
 http://cv.khushitv.xyz/channels.php?c=zanmolcnm&e=.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Zee Bioskop" tvg-logo="" group-title="INDIA (New)",Zee Bioskop
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8?Live-TV™
-#EXTINF:-1 tvg-id="ZeeCinema.uk" tvg-name="Zee Cinema (1)" tvg-logo="" group-title="INDIA (New)",Zee Cinema
-http://10.16.100.200:8082/hls/z_Cinema_hd_bd_720p.m3u8
 #EXTINF:-1 tvg-id="ZeeCinema.uk" tvg-name="Zee Cinema (1)" tvg-logo="" group-title="INDIA (New)",Zee Cinema (1)
 https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/index.m3u8
 #EXTINF:-1 tvg-id="ZeeCinema.uk" tvg-name="Zee Cinema (2)" tvg-logo="" group-title="INDIA (New)",Zee Cinema (2)
