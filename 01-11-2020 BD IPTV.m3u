@@ -45,6 +45,17 @@ http://cdn.ihub.live:8080/j-TSports/tracks-v1a1/mono.m3u8
 https://tv.telelivebd.com/live/tsports/chunks.m3u8?nimblesessionid=34271
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.daily-sun.com/assets/news_images/2020/11/16/T_Sportsf.jpg" group-title="Sports",T sports Jadoo
 https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1624326468&md5=y8ix3VfDpgkoLedoSxusFg&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HD" tvg-logo="http://i.seuip.tv/149.png" group-title="ESPORTES",ESPN BRASIL HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/149
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HD ALT" tvg-logo="http://i.seuip.tv/149.png" group-title="ESPORTES",ESPN BRASIL HD ALT
+http://tv1.cs10.tv:80/leopoldo/leopoldo/4069
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL FHD" tvg-logo="http://i.seuip.tv/148.png" group-title="ESPORTES",ESPN BRASIL FHD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/148
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL SD" tvg-logo="http://i.seuip.tv/152.png" group-title="ESPORTES",ESPN BRASIL SD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/152
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL SD ALT" tvg-logo="http://i.seuip.tv/152.png" group-title="ESPORTES",ESPN BRASIL SD ALT
+http://tv1.cs10.tv:80/leopoldo/leopoldo/4070
+
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Sports",ESPN 2 (720p)
 http://164.68.124.111/espn2.m3u8
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/sony_ten_1.jpg" group-title="Sports" ,Sony Ten 1 HD
